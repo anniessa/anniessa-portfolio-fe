@@ -17,7 +17,7 @@ export default function Home({ menuItems, posts }) {
 				</a>
 			</h1>
 			<div className={styles.onPantheon}>
-				<span>Decoupled WordPress on </span>
+				<span>Anniessa Antar </span>
 				<Image
 					src="/pantheon.png"
 					alt="Pantheon Logo"
